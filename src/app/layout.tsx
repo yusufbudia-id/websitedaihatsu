@@ -23,6 +23,9 @@ export const metadata: Metadata = {
   title: "Daihatsu Indonesia - Sahabat Keluarga, Pilihan Tepat",
   description:
     "Temukan mobil Daihatsu berkualitas dengan harga terjangkau. Dari Ayla hingga Terios, temukan mobil impian Anda untuk keluarga Indonesia.",
+  verification: {
+    google: "0wQhv2sPOsMC02vZzMhU99KHgDTNjI9X3ga6elGIx0M",
+  },
   keywords: [
     "Daihatsu",
     "mobil",
