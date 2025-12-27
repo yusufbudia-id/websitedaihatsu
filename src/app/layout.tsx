@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     title: "Daihatsu Indonesia - Sahabat Keluarga, Pilihan Tepat",
     description:
       "Temukan mobil Daihatsu berkualitas dengan harga terjangkau untuk keluarga Indonesia",
-    url: "https://daihatsu.co.id",
+    url: "https://promodaihatsu.vercel.app",
     siteName: "Daihatsu Indonesia",
     type: "website",
   },
