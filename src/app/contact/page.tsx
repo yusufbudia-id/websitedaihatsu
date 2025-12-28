@@ -50,7 +50,7 @@ export default function ContactPage() {
 
   const contactInfo = {
     phone: '+62 821-7463-5218',
-    email: 'budiabdullahy@gmail.com',
+    email: 'yusuf.budiabdullah@dso.astra.co.id',
     address: 'Jl. Magelang No.Km 7,2, Sendangadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284',
     whatsapp: '+62 821-7463-5218',
     operatingHours: {
