@@ -121,11 +121,11 @@ export default function ProductsPage() {
     {
       id: 'sirion',
       name: 'Daihatsu Sirion',
-      category: 'commercial',
+      category: 'hatchback',
       price: 'Rp 220 jutaan',
-      description: 'Kendaraan niaga kecil yang gesit dan efisien.',
+      description: 'Kendaraan kota yang gesit dan lincah.',
       image: '/product/product-sirion.png',
-      features: ['Niaga', 'Gesit', 'Efisien', 'Kompak'],
+      features: ['City Car', 'Gesit', 'Lincah', 'Stylish'],
       badge: 'PROMO'
     }
   ]
