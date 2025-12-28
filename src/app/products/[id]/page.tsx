@@ -344,7 +344,7 @@ export default function CarDetailPage() {
   ]
 },
 
-'granmax-mb': {
+'granmax-minibus': {
   name: 'Gran Max Minibus & BV',
   category: 'Commercial / Minibus',
   price: 'Rp 175.250.000', // Harga tipe BV setelah diskon 17jt
