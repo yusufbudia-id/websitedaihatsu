@@ -393,7 +393,7 @@ export default function ProductsPage() {
                 </div>
                 <div className="flex items-center text-gray-400">
                   <Mail className="w-4 h-4 mr-2" />
-                  <span>budiabdullahy@gmail.com</span>
+                  <span>yusuf.budiabdullah@dso.astra.co.id</span>
                 </div>
                 <div className="flex items-center text-gray-400">
                   <MapPin className="w-4 h-4 mr-2" />
