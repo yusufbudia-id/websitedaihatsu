@@ -483,7 +483,7 @@ export default function CarDetailPage() {
       }
 
       const handleAjukanKredit = (variantName: string) => {
-        const phoneNumber = '6281234567890' // ganti nomor WA sales
+        const phoneNumber = '6282174635218' // ganti nomor WA sales
         const message = `Halo, saya tertarik mengajukan kredit untuk mobil ${car.name} tipe ${variantName}. Mohon dibantu simulasi DP, cicilan, dan tenor. Terima kasih.`
         const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
         window.open(url, '_blank')
